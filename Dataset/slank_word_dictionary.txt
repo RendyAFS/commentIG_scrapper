@@ -5115,10 +5115,10 @@
     "gaharus": "enggak harus",
     "ultahku": "ulang tahun",
     "ewu": "idih",
-    "ew: "idih",
-    "maasyaa: "masya",
-    "tabarokallahhh: "tabarokallah",
-    "barakallahu: "barakallah",
-    "barakallahuuu: "barakallah",
-    "barakalla: "barakallah"
+    "ew": "ih",
+    "maasyaa": "masya",
+    "tabarokallahhh": "tabarokallah",
+    "barakallahu": "barakallah",
+    "barakallahuuu": "barakallah",
+    "barakalla": "barakallah"
 }
